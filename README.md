@@ -185,11 +185,6 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
 </div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/GUNNERSx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
 
 <!--Footer--> 
 <p align="center">
