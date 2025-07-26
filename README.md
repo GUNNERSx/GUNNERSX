@@ -22,6 +22,7 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
 - ❤ Computer whiz
 - 🔐 Enthusiast of ethical hacking and reverse engineering.
 - 🌐 Passionate about web development — exploring languages, tools, and frameworks.
+- 🕹 Gamer at Heart
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -43,9 +44,8 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Web development — exploring languages, tools, and frameworks.</li>
+  <li>Ethical hacking and reverse engineering</li>
 </ul>
 <br />
 <br />
