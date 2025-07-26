@@ -12,9 +12,12 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">👨‍💻 Professional IT Maintainer & Web Development Enthusiast
 
-- ✨ Student of life :)
+Welcome to my GitHub! I'm a dedicated IT professional specializing in system maintenance, network administration, and security. With a strong passion for web development, I build and contribute to modern, scalable, and user-friendly applications. Explore my repositories to find clean code, open-source contributions, and innovative solutions shaped by years of hands-on experience.
+ </p>
+
+- ✨ Learning for life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/GUNNERSx).
