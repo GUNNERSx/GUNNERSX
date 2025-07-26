@@ -1,5 +1,5 @@
 <!--Banner-->
-![GUNNERSx Banner Image](./banner.png)
+![GUNNERSx Banner Image](./banner.jpeg)
 
 <!--Night Owl image-->
 <div>
