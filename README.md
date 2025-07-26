@@ -16,18 +16,17 @@
 Welcome to my GitHub! I'm a dedicated IT professional specializing in system maintenance, network administration, and security.
  </p>
 
-- ✨ Learning for life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/GUNNERSx).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://GUNNERSx.github.io) for more details about me.
+- ✨ Everyday is a learning opportunity.
+- 💁‍♂️ Webmaster / admin
+- 🏙 A lifetime insider and Mentor 
+- 🧠 Knowledge seeker
+- ❤ Test finding tips and tricks 
+- 💻 Visit my Portfolio to learn more about my work and journey.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GUNNERSx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://komarev.com/ghpvc/?username=GUNNERSX&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
@@ -48,13 +47,6 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-</ul>
 <br />
 <br />
 <br />
@@ -70,14 +62,6 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=GUNNERSx&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=GUNNERSx&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/GUNNERSx/achievements?format=svg&limit=6"
-      width="400"
-    />
   </a>
 </p>
 <br />
@@ -159,16 +143,12 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:dembadiack3@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="dembadiack3@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/kiran__a__n" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/GUNNERSx" target="_blank">
@@ -177,10 +157,6 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
 
 <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
