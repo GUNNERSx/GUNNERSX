@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
 - 💁‍♂️ Webmaster / admin
 - 🏙 A lifetime insider and Mentor 
 - 🧠 Knowledge seeker
-- ❤ Test finding tips and tricks 
+- ❤ Computer whiz
 - 💻 Visit my Portfolio to learn more about my work and journey.
 <!--End Intro-->
 
