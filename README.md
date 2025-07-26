@@ -17,11 +17,11 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
  </p>
 
 - ✨ Everyday is a learning opportunity.
-- 💁‍♂️ Webmaster / admin
-- 🏙 A lifetime insider and Mentor 
-- 🧠 Knowledge seeker
+- 🧰 Experienced in hardware and network maintenance.
+- 🧠 Curious internet sleuth and versatile tech tinkerer.
 - ❤ Computer whiz
-- 💻 Visit my Portfolio to learn more about my work and journey.
+- 🔐 Enthusiast of ethical hacking and reverse engineering.
+- 🌐 Passionate about web development — exploring languages, tools, and frameworks.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -47,6 +47,8 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
   <li>Exploring advanced React.js patterns and state management techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -148,7 +150,7 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
 <img src="./gmail.png" width=50 height=50 alt="dembadiack3@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
+<a href="https://x.com/ddiack_" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
@@ -156,7 +158,7 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
 <img src="./github.png" width=50 height=50 alt="GUNNERSx" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/dembadiack3/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
