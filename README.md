@@ -8,13 +8,12 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ DiacK! 
-*Digital Craftsman (Developer / Programmer)*
+*👨‍💻 Professional IT Maintainer & Web Development Enthusiast*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">👨‍💻 Professional IT Maintainer & Web Development Enthusiast
-
-Welcome to my GitHub! I'm a dedicated IT professional specializing in system maintenance, network administration, and security. With a strong passion for web development, I build and contribute to modern, scalable, and user-friendly applications. Explore my repositories to find clean code, open-source contributions, and innovative solutions shaped by years of hands-on experience.
+<p align="left">
+Welcome to my GitHub! I'm a dedicated IT professional specializing in system maintenance, network administration, and security.
  </p>
 
 - ✨ Learning for life :)
