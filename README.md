@@ -30,8 +30,6 @@ Welcome to my GitHub! I'm a dedicated IT professional specializing in system mai
   <img src="https://komarev.com/ghpvc/?username=GUNNERSX&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
----
-
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
