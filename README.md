@@ -46,7 +46,6 @@ Welcome to my GitHub! I'm a passionate IT professional specializing in system ma
 </ul>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
----
 <!--Trophies Section-->   
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
