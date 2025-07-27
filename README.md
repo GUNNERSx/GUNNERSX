@@ -45,6 +45,7 @@ Welcome to my GitHub! I'm a passionate IT professional specializing in system ma
   <li>Ethical hacking and reverse engineering techniques.</li>
 </ul>
 
+<br /><br /><br /><br /><br /><br /><br /><br />
 <!--Trophies Section-->   
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
@@ -56,7 +57,6 @@ Welcome to my GitHub! I'm a passionate IT professional specializing in system ma
     </picture>
   </a>
 </p>
-<br /><br /><br /><br /><br /><br /><br /><br />
 <!--Github stats Table--> 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
