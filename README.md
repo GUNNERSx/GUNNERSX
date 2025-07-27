@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm a passionate IT professional specializing in system ma
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <!--Trophies Section-->   
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<h2 align="left">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
   <a href="https://github.com/GUNNERSx">
     <picture>
